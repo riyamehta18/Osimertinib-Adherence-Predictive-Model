@@ -17,9 +17,10 @@ The dataset includes information on patient demographics, pharmacy claims, and m
 
 ## Environment and Dependencies
 This project was developed using Python version 3.7. The following Python packages and libraries were utilized for data analysis and statistical modeling:
-- `**pandas**`
-- `**scikit-learn**`
-- `**numpy**`
-- `**matplotlib**`
-- `**seaborn**`
-- `**tensorflow**`
+- `pandas`
+- `scikit-learn`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `tensorflow`
+
