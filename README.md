@@ -3,6 +3,8 @@ Predictive analytics model leveraging a neural network to identify patients at r
 
 *NOTE: All code outputs have been removed due to NDAs*
 
+Contributors: Riya Mehta, Sai Priya Lakkireddy, Alec Buetow
+
 ## Overview
 Osimertinib, a targeted therapy for non-small cell lung cancer (NSCLC), has shown efficacy but is associated with adverse effects such as nausea, diarrhea, and seizures. Patient adherence to Osimertinib treatment is crucial for optimal outcomes, but many patients discontinue prematurely due to these side effects. Our project aims to develop a predictive model to identify patients at risk of treatment discontinuation and provide recommendations to enhance adherence.
 
