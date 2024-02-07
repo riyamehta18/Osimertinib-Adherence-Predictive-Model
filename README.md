@@ -1,4 +1,4 @@
-# Predictive Model for Treatment Adherence in Non-Small Cell Lung Cancer (NSCLC) Patients using Osimertinib
+# Humana Case Competition - Predictive Model for Treatment Adherence in Non-Small Cell Lung Cancer (NSCLC) Patients using Osimertinib
 Predictive analytics model leveraging a neural network to identify patients at risk of prematurely ending Osimertinib treatment for non-small cell lung cancer (NSCLC). Achieved an AUC of 0.93 on validation data through focused feature selection. This project was part of the Humana-Mays Healthcare Analytics Case Competition, where our team placed in the top 50 of 150 teams.
 
 *NOTE: All code outputs have been removed due to NDAs*
